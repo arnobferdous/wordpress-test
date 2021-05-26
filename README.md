@@ -2,6 +2,8 @@
 
 Wordpress Test
 ===
+[Live Demo](https://wp.arnob.dev)
+
 A simple WordPress theme developed for Test purpose.
 
 ![Image of Desktop Version](https://i.imgur.com/PqDE36r.png)
