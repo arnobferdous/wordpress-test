@@ -24,7 +24,7 @@ Development Build
 - then `npm run webpack:build`
 
 Installation
----------------
+=================
 - A production build version of the theme is located in `dist/wordpress-test.zip`
 - Download the zip file `wordpress-test.zip`
 - Login to your WordPress admin panel
