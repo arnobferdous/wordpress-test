@@ -37,7 +37,7 @@ Installation
 
 Assign Menu
 =============
-- Navigate to `Apperance -> Menu`
+- Navigate to `Apperance -> Menus`
 - Create a new menu
 - Assign it to `Top menu` display location in order to make the menus visible on top
 
