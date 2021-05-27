@@ -35,5 +35,11 @@ Installation
 - And click on `Install Now`
 - Once uploaded and installed `Activate` the theme
 
+Assign Menu
+=============
+- Navigate to `Apperance -> Menu`
+- Create a new menu
+- Assign it to `Top menu` display location in order to make the menus visible on top
+
 That's it!
 
